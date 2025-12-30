@@ -1,16 +1,33 @@
-## Hi there 👋
+🎯 AI & ML Engineering Student | Builder | Creator | Future Founder
+I’m a passionate Computer Science (AI & ML) student who loves building real-world projects, experimenting with AI tools, and turning ideas into impactful products. I believe in learning by doing, failing fast, and growing consistently ⚡🧠
 
-<!--
-**Pavanbhargav13/Pavanbhargav13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🔭 I’m currently working on AI/ML projects, data-driven applications, and startup ideas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🌱 I’m currently learning Machine Learning, Deep Learning, Data Science, and Agentic AI
+
+
+👯 I’m looking to collaborate on AI projects, hackathons, open-source, and startup-grade ideas
+
+
+🤔 I’m looking for help with scaling AI products, model optimization, and deployment
+
+
+💬 Ask me about Python, Machine Learning, AI tools, content creation, and tech startups
+
+
+📫 How to reach me: GitHub | LinkedIn | Instagram (DMs open 🚀)
+
+
+😄 Pronouns: He/Him
+
+
+⚡ Fun fact: I don’t chase placements — I’m building my own path 💥
+
+
+🛠️ Tech Stack:
+Python | Machine Learning | AI Tools | Data Analysis | Git & GitHub | Canva | DaVinci Resolve
+
+💡 “Consistency beats motivation. Build every day.”
+
